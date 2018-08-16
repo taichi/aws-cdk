@@ -87,6 +87,7 @@ To obtain an AWS account, go to `aws.amazon.com <https://aws.amazon.com>`_ and c
 
    Getting Started <getting-started>
    Concepts <concepts>
+   Tutorial <tutorial>
    AWS Construct Library <aws-construct-lib>
    AWS CloudFormation Library <cloudformation>
    Examples <examples>
